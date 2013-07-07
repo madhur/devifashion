@@ -4,4 +4,7 @@ $(document).ready(function () {
 			manualContinuousScrolling: true,
 			autoScrollingMode: "onStart"
 		});
+		
+		
+	
 	});
