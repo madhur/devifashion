@@ -236,7 +236,7 @@ a.buttonBig:hover { border:1px solid #fff; }
 .pdf .box { border:1px dashed #666; }
 
 
-
+#makeMeScrollable{text-align:center !important;height:200px;}
 
 .dif, .dif a, a.dif { color:#ff9 } .dif a:hover, a.dif:hover { color:#fff }
 .imgBdr { border:1px solid #ccc; }

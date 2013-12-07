@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mesmerizing Collection of Unstitched Ladies Suits
+title: Mesmerizing Collection of Designer Ladies Suits
 ---
 
 <br/>
